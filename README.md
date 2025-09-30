@@ -8,11 +8,11 @@ Domain: Data Analytics
 
 Internship Platform: VOIS (Vodafone Idea Limited)
 
-Mentor Name: [Your Mentor's Name]
+Mentor Name: ELURI NARENDRA
 
-Internship ID: [Your AICTE Internship ID]
+Internship ID:  INTERNSHIP_172663295366ea53f910591
 
-Student Name: [Your Full Name]
+Student Name:  Rathan Deep CS
 
 
 Repository Name: VOIS_AICTE_Oct2025_Rathandeep_CS 
